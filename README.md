@@ -1,7 +1,6 @@
 # Mini Hospital App - Python GUI
 
-![App Screenshot 1](graphics/ui1.png)
-![App Screenshot 2](graphics/ui2.png)
+![App Screenshot 1](graphics/ui.png)
 
 ## 📌 Introduction
 The **Mini Hospital App** is a simple yet functional hospital management system built with Python and a GUI framework (Tkinter/PyQt/others). It helps manage patient records, doctor records, and appointments in a user-friendly interface.
