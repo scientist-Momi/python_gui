@@ -1,50 +1,31 @@
 # Mini Hospital App - Python GUI
 
-📌 Introduction
+![App Screenshot 1](graphics/ui1.png)
+![App Screenshot 2](graphics/ui2.png)
 
-The Mini Hospital App is a simple yet functional hospital management system built with Python and a GUI framework Tkinter. It helps manage patient records, doctor records, and appointments in a user-friendly interface.
+## 📌 Introduction
+The **Mini Hospital App** is a simple yet functional hospital management system built with Python and a GUI framework (Tkinter/PyQt/others). It helps manage patient records, doctor records, and appointments in a user-friendly interface.
 
-✨ Features
+## ✨ Features
+- Add, update, and delete patient records
+- Schedule doctor appointments
+- User-friendly graphical interface
+- Simple data storage
 
-Add, update, and delete patient records
-
-Schedule doctor appointments
-
-Generate invoices for hospital services
-
-User-friendly graphical interface
-
-Secure data storage
-
-🛠️ Installation
-
+## 🛠️ Installation
 To run this project locally, follow these steps:
 
-Clone the Repository:
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/scientist-Momi/python_gui.git
+   cd python_gui
+2. **Install Dependencies:**
+   ```bash
+   pip install -r requirements.txt
+3. **Run Application:**
+   ```bash
+   python main.py
 
-git clone https://github.com/scientist-Momi/python_gui.git
-cd python_gui
+## 🎨 Credits
+This project uses a custom theme. Credit to [rdbende](https://github.com/rdbende/Azure-ttk-theme.git) for their amazing design.
 
-Install Dependencies:
-
-pip install -r requirements.txt
-
-Run the Application:
-
-python main.py
-
-📸 Screenshots
-
-Include the two images of the app here.
-
-📜 License
-
-This project is licensed under the MIT License.
-
-💡 Contribution
-
-Feel free to fork this repository, make changes, and submit a pull request. Contributions are welcome!
-
-📞 Contact
-
-For any questions or support, reach out via [Your Email] or open an issue in the repository.
